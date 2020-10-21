@@ -1,1 +1,1 @@
-# Unsupervised Project (clustering)
+# Unsupervised Project (Clustering)
